@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/home/sl0b/Git/Tests/test-anim-swipe/test/www/lib/ionic/js/ionic.bundle.min.js",
+        "/home/sl0b/Git/Tests/test-anim-swipe/test/www/js/app.js"
+    ]
+}
